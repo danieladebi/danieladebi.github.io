@@ -14,9 +14,6 @@ news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-
-
-# TODO ADD ABOUT ME PAGE
 ---
 I am a first year Ph.D. student in Computer Science at the [University of Texas at Austin](https://www.cs.utexas.edu/). My research interests lie at the intersection of <b>robotics</b>, <b>reinforcement learning</b>, and <b>representation learning</b>. I aim to improve a robot’s ability to act, perceive, and learn in complex environments, and ensure that a machine's goals will always align with human goals.
 
