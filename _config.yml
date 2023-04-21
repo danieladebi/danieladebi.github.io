@@ -207,7 +207,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-  - ['_pages_saved']
 keep_files:
   - CNAME
   - .nojekyll
@@ -268,7 +267,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Adebi]
-  first_name: ["Ikechukwu, D.", "Ikechukwu", "Daniel", "Ikechukwu Daniel"]
+  first_name: [Ikechukwu, D.]
 
   style: apa
   locale: en
