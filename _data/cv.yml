@@ -76,8 +76,7 @@
   contents:
     - title: Fellowships
       description: 
-        - year: 2023
-        - description: <a href="https://www.gemfellowship.org/gem-fellowship-program/">National GEM Consortium Fellowship</a>
+        - <a href="https://www.gemfellowship.org/gem-fellowship-program/">National GEM Consortium Fellowship 2023</a>
 
 # - title: Open Source Projects
 #   type: time_table
