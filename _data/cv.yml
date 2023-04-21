@@ -15,8 +15,10 @@
       year: JAN 2022 - JUN 2023
       description:
         - "Concentration: Artificial Intelligence"
-        - 'Thesis: "Landslide Susceptibility Prediction Adaptive to Triggering Events"'
-        - 'Research Group: MIT Environmental Solutions Initiative'     
+        - title: 'Thesis: "Landslide Susceptibility Prediction Adaptive to Triggering Events"'
+          contents:
+            - 'Research Group: MIT Environmental Solutions Initiative'    
+            - 'Advisor: Prof. John E. Fernández' 
     - title: S.B. in Computer Science and Engineering
       institution: Massachusetts Institute of Technology
       year: SEP 2018 - MAY 2022
