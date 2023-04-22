@@ -37,20 +37,20 @@
         - Designing and implementing machine learning models to analyze and predict landslide probability 
         from LIDAR data, modal satellite imagery, weather data, and geographic information.
     - title: Computer Science and Artificial Intelligence Laboratory
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Graduate Research Assistant in Kellis Lab
+          year: 2022
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+            - Sub-description 1
+        - title: Undergraduate Researcher at Distributed Robotics Laboratory
+          year: 2021 - 2022
+          contents:
+            - Sub-description 2
+    - title: MIT Media Lab
+      institution: Undergraduate Research Assistant
+      year: 2021 - 2022
+      description:
+        - 
 
 - title: Professional Experience
   type: time_table
@@ -76,9 +76,9 @@
 - title: Honors and Awards 
   type: time_table
   contents:
-    - title: Fellowships
-      description: 
-        - <a href="https://www.gemfellowship.org/gem-fellowship-program/">National GEM Consortium Fellowship 2023</a>
+    - year: 2023
+      items: 
+        - <a href="https://www.gemfellowship.org/gem-fellowship-program/">National GEM Consortium Fellowship</a>
 
 # - title: Open Source Projects
 #   type: time_table
