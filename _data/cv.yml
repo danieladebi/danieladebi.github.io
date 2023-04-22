@@ -92,20 +92,10 @@
   contents:
     - title: Programming
       items:
-        - Python
-        - C++ 
-        - C#
-        - Java
-        - Terminal
+        - Python, C++, C#, Java, Terminal
     - title: Software
       items: 
-        - PyTorch
-        - Gym
-        - Tensorflow
-        - Scikit-Learn
-        - Linux
-        - Unity
-        - Git
+        - PyTorch, Gym, Tensorflow, Scikit-Learn, Linux, Unity, Git
 
 
 # - title: Computer Science and Artificial Intelligence Laboratory
