@@ -68,16 +68,41 @@
       institution: AI Research Scientist Intern
       year: 2023
       description: 
-        - TODO
+        - Working on the Trustworth AI team doing reinforcement learning research. 
+    - title: Google
+      institution: Software Engineering Intern
+      year: 2022
+      description: 
+        - 
+    - title: Google
+      institution: Software Engineering Intern
+      year: 2021
+      description: 
+        - 
+    - title: Google
+      institution: Student Training in Engineering Program (STEP) Intern 
+      year: 2020
+      description: 
+        - 
+    - title: IBM
+      institution: Software Engineering Intern
+      year: 2019
+      description: 
+        - 
 
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: 6.046 - Design and Analysis of Algorithms
+      institution: Grader and Tutor
+      year: 2020 - 2021
       description:
-        - Description 1.
+        - 
+    - title: 6.036 - Introduction to Machine Learning
+      institution: Lab Assistant
+      year: 2020 
+      description:
+        - 
 
 - title: Honors and Awards 
   type: time_table
