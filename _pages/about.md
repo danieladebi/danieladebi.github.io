@@ -2,7 +2,6 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "Preferred Name: Daniel"
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
