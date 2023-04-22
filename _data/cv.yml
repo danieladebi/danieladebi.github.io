@@ -73,22 +73,22 @@
       institution: Software Engineering Intern
       year: 2022
       description: 
-        - 
+        - Experimented with state-of-the-art NLP models for call transcript summarization.
     - title: Google
       institution: Software Engineering Intern
       year: 2021
       description: 
-        - 
+        - Created an offline pipeline for the Google Lens team to extract labels from random forest decision tree models.
     - title: Google
       institution: Student Training in Engineering Program (STEP) Intern 
       year: 2020
       description: 
-        - 
+        - Created a web application to help people learn various, user-chosen topics efficiently.
     - title: IBM
       institution: Software Engineering Intern
       year: 2019
       description: 
-        - 
+        - Developed a program that created and maintained product representations that sellers use to sell to IBM Clients.  
 
 - title: Teaching Experience
   type: time_table
@@ -106,7 +106,6 @@
     - year: 2023
       items: 
         - <a href="https://www.gemfellowship.org/gem-fellowship-program/">National GEM Consortium Fellowship</a>
-
 
 - title: Skills
   type: nested_list
