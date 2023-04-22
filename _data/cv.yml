@@ -30,13 +30,13 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: MIT Environmental Solutions Initiative
+    - title: MIT Environmental Solutions Initiative (M.Eng. Thesis)
       institution: Graduate Research Assistant
-      year: Jan 2022 - May 2023
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
-    - title: Professor of Theoretical Physics
+        - Designing and implementing machine learning models to analyze and predict landslide probability 
+        from LIDAR data, modal satellite imagery, weather data, and geographic information.
+    - title: Computer Science and Artificial Intelligence Laboratory
       institution: Institute for Advanced Study, Princeton University
       year: 1933 - 1955
       description:
