@@ -1,6 +1,8 @@
 - title: Contact
   type: map
   contents:
+    - name: Preferred Name
+      value: Daniel 
     - name: Email
       value: ikadebi@utexas.edu
 
@@ -42,7 +44,7 @@
       institution: Graduate Research Assistant
       year: 2022 - 2023
       description:
-        - Designed and implemented machine learning models to analyze and predict landslide susceptibility from LiDAR and satellite data.  
+        - Designed and implemented various machine learning models to analyze and predict landslide susceptibility from LiDAR and satellite data.  
     - title: MIT Computer Science and Artificial Intelligence Laboratory
       institution: Graduate Research Assistant at Kellis Lab
       year: 2022
@@ -50,7 +52,7 @@
         - TODO
     - title: MIT Computer Science and Artificial Intelligence Laboratory
       institution: Undergraduate Researcher at Distributed Robotics Laboratory
-      year: 2022
+      year: 2021 - 2022
       description: 
         - TODO
     - title: MIT Media Lab
@@ -59,12 +61,14 @@
       description:
         - TODO
 
-- title: Professional Experience
+- title: Industry Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: IBM Research
+      institution: AI Research Scientist Intern
+      year: 2023
+      description: 
+        - TODO
 
 - title: Teaching Experience
   type: time_table
@@ -74,11 +78,6 @@
       year: 1933 - 1955
       description:
         - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
 
 - title: Honors and Awards 
   type: time_table
@@ -86,6 +85,21 @@
     - year: 2023
       items: 
         - <a href="https://www.gemfellowship.org/gem-fellowship-program/">National GEM Consortium Fellowship</a>
+
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming
+      items:
+        - Python
+        - C++ 
+        - C#
+        - Java
+        - Terminal
+    - title: Software
+      items: 
+        - PyTorch
 
 # - title: Computer Science and Artificial Intelligence Laboratory
 #   items:
