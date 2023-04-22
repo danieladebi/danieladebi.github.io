@@ -17,4 +17,12 @@ nav_order: 1
         </p>
     </div>
 </div>
-
+---
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4">
+        {% include figure.html path="assets/img/eagles_jersey_pic.jpg" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8">
+        {% include figure.html path="assets/img/nigeria.png" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
