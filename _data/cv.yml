@@ -49,17 +49,17 @@
       institution: Graduate Research Assistant at Kellis Lab
       year: 2022
       description: 
-        - TODO
+        - Experimented with using graph variational autoencoders to learn representations for personalized Bayesian Networks in computational biology settings. 
     - title: MIT Computer Science and Artificial Intelligence Laboratory
       institution: Undergraduate Researcher at Distributed Robotics Laboratory
       year: 2021 - 2022
       description: 
-        - TODO
+        - Developed and trained transformer-based deep reinforcement learning models to teach a fixed-wing drone how to fly in a virtual environment while accomplishing subgoals. 
     - title: MIT Media Lab
       institution: Undergraduate Research Assistant
       year: 2021 - 2022
       description:
-        - TODO
+        - Studied the effectiveness of graph neural network-based simulations to build more effective forecasting systems.
 
 - title: Industry Experience
   type: time_table
