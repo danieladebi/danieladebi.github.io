@@ -36,16 +36,7 @@
       description:
         - Designing and implementing machine learning models to analyze and predict landslide probability 
         from LIDAR data, modal satellite imagery, weather data, and geographic information.
-    - title: Computer Science and Artificial Intelligence Laboratory
-      items:
-        - title: Graduate Research Assistant in Kellis Lab
-          year: 2022
-          description:
-            - Sub-description 1
-        - title: Undergraduate Researcher at Distributed Robotics Laboratory
-          year: 2021 - 2022
-          description:
-            - Sub-description 2
+    
     - title: MIT Media Lab
       institution: Undergraduate Research Assistant
       year: 2021 - 2022
@@ -79,6 +70,17 @@
     - year: 2023
       items: 
         - <a href="https://www.gemfellowship.org/gem-fellowship-program/">National GEM Consortium Fellowship</a>
+
+# - title: Computer Science and Artificial Intelligence Laboratory
+#   items:
+#     - title: Graduate Research Assistant in Kellis Lab
+#       year: 2022
+#       description:
+#         - Sub-description 1
+#     - title: Undergraduate Researcher at Distributed Robotics Laboratory
+#       year: 2021 - 2022
+#       description:
+#         - Sub-description 2
 
 # - title: Open Source Projects
 #   type: time_table
