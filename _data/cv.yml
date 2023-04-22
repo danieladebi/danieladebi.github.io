@@ -26,6 +26,14 @@
         - "GPA: 4.8/5.0"
         - "Groups: MIT InterVarsity, Black Student Union, African Students Association"
 
+# - title: Research Experience
+#   type: time_table
+#   contents:
+#     - title: MIT Environmental Solutions Initiative (M.Eng. Thesis)
+#       institution: Graduate Research Assistant
+#       year: 2022 - 2023
+#       description:
+#         - Designing and implementing machine learning models to analyze and predict landslide probability from LIDAR data, modal satellite imagery, weather data, and geographic information.   
 
 - title: Research Experience
   type: time_table
@@ -34,8 +42,7 @@
       institution: Graduate Research Assistant
       year: 2022 - 2023
       description:
-        - Designing and implementing machine learning models to analyze and predict landslide probability 
-        from LIDAR data, modal satellite imagery, weather data, and geographic information.   
+        - Designing and implementing machine learning models to analyze and predict landslide probability from LIDAR data, modal satellite imagery, weather data, and geographic information.   
     - title: MIT Media Lab
       institution: Undergraduate Research Assistant
       year: 2021 - 2022
