@@ -44,14 +44,20 @@
       description:
         - Designed and implemented machine learning models to analyze and predict landslide susceptibility from LiDAR and satellite data.  
     - title: MIT Computer Science and Artificial Intelligence Laboratory
-      items: 
-        - Graduate Research Assistant
-        - Undergraduate Researcher
+      institution: Graduate Research Assistant at Kellis Lab
+      year: 2022
+      description: 
+        - TODO
+    - title: MIT Computer Science and Artificial Intelligence Laboratory
+      institution: Undergraduate Researcher at Distributed Robotics Laboratory
+      year: 2022
+      description: 
+        - TODO
     - title: MIT Media Lab
       institution: Undergraduate Research Assistant
       year: 2021 - 2022
       description:
-        - d
+        - TODO
 
 - title: Professional Experience
   type: time_table
