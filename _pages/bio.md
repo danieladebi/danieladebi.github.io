@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /bio/
+permalink: /about/
 title: Bio
 nav: true
 nav_order: 1
 ---
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-">
         {% include figure.html path="assets/img/gradphoto.jpg" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
