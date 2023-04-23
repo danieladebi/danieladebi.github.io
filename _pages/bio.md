@@ -10,7 +10,7 @@ nav_order: 1
     <div class="col-sm-3">
         {% include figure.html path="assets/img/eagles_jersey_pic.jpg" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-4">
         {% include figure.html path="assets/img/gradphoto.jpg" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-12">
