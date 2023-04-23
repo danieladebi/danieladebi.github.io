@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "Pronunciation: ee-KAY-choo-koo DAN-yul uh-DEB-ee"
+subtitle: "<i>Pronunciation: ee-KAY-choo-koo DAN-yul uh-DEB-ee</i>"
 
 profile:
   align: right
