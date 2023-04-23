@@ -9,12 +9,12 @@ nav_order: 1
 <div class="row justify-content-sm-center">
     <div class="col-3">
         {% include figure.html path="assets/img/LADaniel_crop.jpg" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
+    </div>    
+    <div class="col-4">
+        {% include figure.html path="assets/img/gradphoto.jpg" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-3">
         {% include figure.html path="assets/img/eagles_jersey_pic.jpg" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-4">
-        {% include figure.html path="assets/img/gradphoto.jpg" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-12">
         <h5>Background</h5>
