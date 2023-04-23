@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: Personal
+title: Bio
 nav: true
 nav_order: 1
 ---
