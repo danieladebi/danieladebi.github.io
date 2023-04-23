@@ -7,13 +7,13 @@ nav_order: 1
 ---
 
 <div class="row justify-content-sm-center">
-    <div class="col-3 align-items-center">
+    <div class="col align-items-center">
         {% include figure.html path="assets/img/LADaniel_crop.jpg" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
     </div>    
     <div class="col-4 align-items-center">
         {% include figure.html path="assets/img/gradphoto.jpg" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-3 align-items-center">
+    <div class="col align-items-center">
         {% include figure.html path="assets/img/eagles_jersey_pic.jpg" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-12">
