@@ -16,6 +16,7 @@ nav_order: 1
     <div class="col-sm-4">
         {% include figure.html path="assets/img/LADaniel_crop.jpg" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
     </div>
+    <br />
     <div class="col-sm-12">
         <h5>Background</h5>
         <p>I was born in New Jersey and raised in Delaware for most of my life. Even though I was born in America, I come from a Nigerian background, with my dad's side of the family being part of the <a href="https://en.wikipedia.org/wiki/Igbo_people">Igbo</a> tribe, and my mom's side of the family being <a href="https://en.wikipedia.org/wiki/Yoruba_people">Yoruba</a>. </p>

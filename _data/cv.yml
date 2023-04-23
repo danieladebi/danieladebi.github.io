@@ -1,6 +1,8 @@
 - title: Contact
   type: map
   contents:
+    - name: Full Name (Pronunciation)
+      value: Ikechukwu Daniel Adebi (ee-KAY-choo-koo DAN-yul uh-DEB-ee)
     - name: Preferred Name
       value: Daniel 
     - name: Email
