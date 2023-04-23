@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: Bio
+title: Personal
 nav: true
 nav_order: 1
 ---
@@ -11,7 +11,11 @@ nav_order: 1
         {% include figure.html path="assets/img/eagles_jersey_pic.jpg" title="Grad Photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-9">
-        <p>I was born in New Jersey and raised in Delaware for most of my life. However, even though I was born in America, I come from a Nigerian background, with my dad's side of the family being <a href="https://en.wikipedia.org/wiki/Igbo_people">Igbo</a>, and my mom's side of the family being <a href="https://en.wikipedia.org/wiki/Yoruba_people">Yoruba</a>. </p>
+        <p>I was born in New Jersey and raised in Delaware for most of my life. Even though I was born in America, I come from a Nigerian background, with my dad's side of the family being part of the <a href="https://en.wikipedia.org/wiki/Igbo_people">Igbo</a> tribe, and my mom's side of the family being <a href="https://en.wikipedia.org/wiki/Yoruba_people">Yoruba</a>. </p>
+        <p>
+        Throughout my childhood, I always had an interest for AI in robots, participating in robotics clubs in middle and high school as a programmer. However,
+        before I went to college, I actually planned on pursuing a career in video game development, wanting to develop challenging agents for the player to compete against. It wasn't until I came to MIT that I realized how much I enjoyed studying AI, especially in the robotics setting. In 2021, I took part in my first robotics research project in MIT CSAIL's Distributed Robotics Laboratory, and our goal was to train an AI agent to help pilots fly planes more safely. From this project, my passion for robotics research had blossomed, and I was inspired to pursue a career in helping create robots that can better help people. 
+        </p>
         <p>
         In my free time, I like taking walks, listening to rap music, working out, and playing and watching sports (huge Eagles	and Sixers fan, for the record).
         </p>
