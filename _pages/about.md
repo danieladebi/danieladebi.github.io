@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: "Pronunciation: ee-KAY-choo-koo DAN-yul uh-DEB-ee"
 
 profile:
   align: right
