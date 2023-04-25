@@ -31,6 +31,6 @@ nav_order: 1
         <p>
         In my free time, I like taking walks, listening to rap music, working out, and playing and watching sports (huge Eagles	and Sixers fan, for the record).
         </p>
-        <p>I really love math and physics, and will often watch a lot of youtube videos about these topics from time to time. I also enjoy philosophy, and I appreciate having deep discussions with people about philosophical topics, as learning about other people's world views fascinates me. </p>
+        <p>I really love math and physics, and will often watch a lot of youtube videos about these topics from time to time. I am also a Christian who enjoys philosophy, and I appreciate having deep discussions with people about philosophical topics related to religion, science, ethics, and general existence.  </p>
     </div>
 </div>
