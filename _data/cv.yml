@@ -115,7 +115,7 @@
         - Python, C++, C#, Java, Terminal
     - title: Software
       items: 
-        - PyTorch, Gym, Tensorflow, Scikit-Learn, Linux, Unity, Git
+        - PyTorch, Gym, Tensorflow, Scikit-Learn, NumPy, Linux, Unity, Git
 
 
 # - title: Computer Science and Artificial Intelligence Laboratory
