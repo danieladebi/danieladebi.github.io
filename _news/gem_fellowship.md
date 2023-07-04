@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was selected to be a [GEM Fellow](https://www.gemfellowship.org/)!
+I was selected to be a <b>[GEM Fellow](https://www.gemfellowship.org/)</b>!
