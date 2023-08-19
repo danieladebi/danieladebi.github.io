@@ -96,6 +96,9 @@
 - title: Teaching Experience
   type: time_table
   contents:
+    - title: CS 371P - Object-Oriented Programming
+      institution:  Graduate Teaching Assistant
+      year: 2023
     - title: 6.046 - Design and Analysis of Algorithms
       institution: Grader and Tutor
       year: 2020 - 2021
