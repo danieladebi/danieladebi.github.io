@@ -96,13 +96,13 @@
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: CS 371P - Object-Oriented Programming
+    - title: CS 371P - Object-Oriented Programming (UT Austin)
       institution:  Graduate Teaching Assistant
       year: 2023
-    - title: 6.046 - Design and Analysis of Algorithms
+    - title: 6.046 - Design and Analysis of Algorithms (MIT)
       institution: Grader and Tutor
       year: 2020 - 2021
-    - title: 6.036 - Introduction to Machine Learning
+    - title: 6.036 - Introduction to Machine Learning (MIT)
       institution: Lab Assistant
       year: 2020
 
