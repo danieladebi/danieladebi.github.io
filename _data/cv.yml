@@ -43,6 +43,11 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Machine Intelligence through Decision Making and Interaction Lab
+      institution: Graduate Researcher
+      year: 2023 - Present
+      description:
+        - Working under Prof. Amy Zhang developing better representations for training robots and other reinforcement learning agents to perform downstream tasks.
     - title: MIT Environmental Solutions Initiative (M.Eng. Thesis)
       institution: Graduate Research Assistant
       year: 2022 - 2023
