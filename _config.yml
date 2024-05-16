@@ -267,7 +267,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Adebi]
-  first_name: [Daniel] # Ikechukwu D.
+  first_name: [Daniel, Ikechukwu] # Ikechukwu D.
 
   style: apa
   locale: en
