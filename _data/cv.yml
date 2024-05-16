@@ -42,6 +42,9 @@
 
 - title: Publications
   type: time_table
+  - title: (Under Review) Crossing the Multi-Task Barrier in Online Meta-Reinforcement Learning with Sequence Models
+    authors: Jake Grigsby, Justin Sasek, Samyak Parajuli, <u>Daniel Adebi</u>, Amy Zhang, Yuke Zhu 
+    year: May 2024 
 
 - title: Research Experience
   type: time_table
