@@ -40,6 +40,9 @@
 #       description:
 #         - Designing and implementing machine learning models to analyze and predict landslide probability from LIDAR data, modal satellite imagery, weather data, and geographic information.   
 
+- title: Publications
+  type: time_table
+
 - title: Research Experience
   type: time_table
   contents:
