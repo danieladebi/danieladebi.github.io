@@ -50,9 +50,14 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Autonomous Mobile Robotics Laboratory (AMRL)
+      institution: Graduate Researcher
+      year: 2024 - Present
+      description:
+        - Working under Prof. Joydeep Biswas and Prof. Isil Dillig to develop neurosymbolic AI methods for safe robotics settings.
     - title: Machine Intelligence through Decision Making and Interaction Lab
       institution: Graduate Researcher
-      year: 2023 - Present
+      year: 2023 - 2024
       description:
         - Working under Prof. Amy Zhang in the MIDI Lab developing better representations for training robots and other reinforcement learning agents to perform downstream tasks.
     - title: MIT Environmental Solutions Initiative (M.Eng. Thesis)
