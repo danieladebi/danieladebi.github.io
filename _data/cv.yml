@@ -113,8 +113,11 @@
 - title: Teaching Experience
   type: time_table
   contents:
+    - title: CS 373 - Software Engineering (UT Austin)
+      institution: Graduate Teaching Assistant
+      year: 2024
     - title: CS 371P - Object-Oriented Programming (UT Austin)
-      institution:  Graduate Teaching Assistant
+      institution: Graduate Teaching Assistant
       year: 2023
     - title: 6.046 - Design and Analysis of Algorithms (MIT)
       institution: Grader and Tutor
