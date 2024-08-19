@@ -50,11 +50,11 @@
 - title: Research Experience
   type: time_table
   contents:
-    # - title: Autonomous Mobile Robotics Laboratory (AMRL) and UT Program Analysis (UToPiA)
-    #   institution: Graduate Researcher
-    #   year: 2024 - Present
-    #   description:
-    #     - Working under Prof. Joydeep Biswas and Prof. Isil Dillig to develop neurosymbolic AI methods for safe robotics settings.
+    - title: Autonomous Mobile Robotics Laboratory (AMRL) and UT Program Analysis (UToPiA)
+      institution: Graduate Researcher
+      year: 2024 - Present
+      description:
+        - Working under Prof. Kristen Grauman.
     - title: Machine Intelligence through Decision Making and Interaction Lab
       institution: Graduate Researcher
       year: 2023 - 2024
