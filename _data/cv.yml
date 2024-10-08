@@ -43,7 +43,7 @@
 - title: Publications
   type: time_table
   contents:
-  - title: Breaking the Multi-Task Barrier in Meta-Reinforcement Learning with Transformers
+  - title: "AMAGO-2: Breaking the Multi-Task Barrier in Meta-Reinforcement Learning with Transformers"
     institution: "Jake Grigsby, Justin Sasek, Samyak Parajuli, <u>Daniel Adebi</u>, Amy Zhang, Yuke Zhu\n<i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024"
     year: May 2024 
 
