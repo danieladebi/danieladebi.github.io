@@ -25,7 +25,7 @@ nav_order: 1
         Throughout my childhood, I always had an interest for AI in robots, participating in robotics clubs in middle and high school as a programmer. However,
         before I went to college, I actually planned on pursuing a career in video game development, wanting to develop challenging adversaries for the player to compete against. It wasn't until I came to MIT that I realized how much I enjoyed studying AI, especially in the robotics setting.</p> 
         <p>
-        In 2021, I took part in my first robotics research project in MIT CSAIL's Distributed Robotics Laboratory, and our goal was to train an AI agent to help pilots fly planes more safely. From this project, my passion for robotics research had blossomed, as I realized how much of an impact I could make in the world by pursuing a research career. I saw opportunities to improve a robot's abilities to act, perceive, and learn in complex environments, and this ultimately inspired me to pursue a career in helping create robots that can better help people. 
+        In 2021, I took part in my first robotics research project in MIT CSAIL's Distributed Robotics Laboratory, and our goal was to train an AI agent to help pilots fly planes more safely. From this project, my passion for robotics and AI research in general had blossomed, as I realized how much of an impact I could make in the world by pursuing a research career. This ultimately inspired me to pursue a career in helping develop AI models that can better help people. 
         </p>
         <h5>Hobbies and Other Interests</h5>
         <p>
