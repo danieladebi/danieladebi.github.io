@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[AMAGO-2](https://openreview.net/pdf?id=OSHaRf4TVU) got accepted by NeurIPS (Poster Presentation). 
+<b>[AMAGO-2](https://openreview.net/pdf?id=OSHaRf4TVU)</b> got accepted by NeurIPS (Poster Presentation). 
