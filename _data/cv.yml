@@ -44,8 +44,10 @@
   type: time_table
   contents:
   - title: "AMAGO-2: Breaking the Multi-Task Barrier in Meta-Reinforcement Learning with Transformers"
-    institution: "Jake Grigsby, Justin Sasek, Samyak Parajuli, <u>Daniel Adebi</u>, Amy Zhang, Yuke Zhu\n<i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024"
-    year: May 2024 
+    institution: "Jake Grigsby, Justin Sasek*, Samyak Parajuli*, <u>Daniel Adebi</u>*, Amy Zhang, Yuke Zhu\n<i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024"
+    year: Nov 2024 
+    description: "* = equal contribution"
+
 
 - title: Research Experience
   type: time_table
@@ -54,7 +56,7 @@
       institution: Graduate Researcher
       year: 2024 - Present
       description:
-        - Working under Prof. Kristen Grauman.
+        - Working under Prof. Kristen Grauman developing better methods for video understanding tasks, such as procedural understanding and video alignment.
     - title: Machine Intelligence through Decision Making and Interaction Lab
       institution: Graduate Researcher
       year: 2023 - 2024
