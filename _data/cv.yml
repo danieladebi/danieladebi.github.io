@@ -52,6 +52,11 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: UT Southwestern Medical Center
+      institution: Graduate Research Assistant
+      year: May 2025 - August 2025
+      description:
+        - Working under Prof. Yang Xie and Prof. Wenqi Shi on developing a reinforcement learning based gym environment for multimodal language models.
     - title: UT Austin Computer Vision Group
       institution: Graduate Researcher
       year: 2024 - Present
