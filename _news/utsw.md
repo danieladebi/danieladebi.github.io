@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my internship at UT Southwestern Medical Center as a research assistant under Prof. Yang Xie and Prof. Wenqi Shi. 
+Started internship at UT Southwestern Medical Center as a research assistant under Prof. Yang Xie and Prof. Wenqi Shi. 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my internship at IBM Research this summer in Yorktown Heights, NY.
+Started internship at IBM Research this summer in Yorktown Heights, NY.
