@@ -56,7 +56,7 @@
       institution: Graduate Research Assistant
       year: May 2025 - August 2025
       description:
-        - Working under Prof. Yang Xie and Prof. Wenqi Shi on developing a reinforcement learning based gym environment for multimodal language models.
+        - Worked under Prof. Yang Xie and Prof. Wenqi Shi on developing a reinforcement learning based gym environment for multimodal language models.
     - title: UT Austin Computer Vision Group
       institution: Graduate Researcher
       year: 2024 - Present
@@ -82,11 +82,6 @@
       year: 2021 - 2022
       description: 
         - Developed and trained transformer-based deep reinforcement learning models to teach a fixed-wing drone how to fly in a virtual environment while accomplishing subgoals. 
-    - title: MIT Media Lab
-      institution: Undergraduate Research Assistant in Camera Culture Group
-      year: 2021 - 2022
-      description:
-        - Studied the effectiveness of graph neural network-based simulations to build more effective forecasting systems.
 
 - title: Industry Experience
   type: time_table
@@ -120,6 +115,9 @@
 - title: Teaching Experience
   type: time_table
   contents:
+    - title: CS 363M - Intro to Machine Learning (UT Austin)
+      institution: Graduate Teaching Assistant
+      year: 2024 - present
     - title: CS 373 - Software Engineering (UT Austin)
       institution: Graduate Teaching Assistant
       year: 2024
