@@ -57,7 +57,7 @@
   contents:
     - title: UT Southwestern Medical Center
       institution: Graduate Research Assistant
-      year: May 2025 - August 2025
+      year: 2025
       description:
         - Worked under Prof. Yang Xie and Prof. Wenqi Shi on developing a reinforcement learning based gym environment for multimodal language models.
     - title: UT Austin Computer Vision Group
@@ -75,11 +75,6 @@
       year: 2022 - 2023
       description:
         - Designed and implemented various machine learning models to analyze and predict landslide susceptibility from LiDAR and satellite data.  
-    - title: MIT Computer Science and Artificial Intelligence Laboratory
-      institution: Graduate Research Assistant at Kellis Lab
-      year: 2022
-      description: 
-        - Experimented with using graph variational autoencoders to learn representations for personalized Bayesian Networks in computational biology settings. 
     - title: MIT Computer Science and Artificial Intelligence Laboratory
       institution: Undergraduate Researcher at Distributed Robotics Laboratory
       year: 2021 - 2022
