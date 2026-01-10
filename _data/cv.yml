@@ -13,7 +13,7 @@
       institution: University of Texas at Austin (UT Austin)
       year: 2023 - Present
       description: 
-        - "Advisor: <a href='https://www.cs.utexas.edu/~grauman/'>Kristen Grauman</a>"
+        - "Advisors: <a href='https://robotics.me.utexas.edu/people/9-faculty/2-mitch-pryor'>Mitchell Pryor</a> and <a href='https://www.cs.utexas.edu/~pstone/index.shtml'>Peter Stone</a>"
         - 'Research Interests: Robotics, Computer Vision, Representation Learning, Reinforcement Learning'
     - title: M.Eng. in Electrical Engineering and Computer Science
       institution: Massachusetts Institute of Technology (MIT)
@@ -55,6 +55,11 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Nuclear and Applied Robotics Group 
+      institution: Graduate Researcher
+      year: 2026 - Present
+      description: 
+        - Working under Prof. Mitchell Pryor on object affordances for robotic mobile manipulation tasks. Also being co-advised by Prof. Peter Stone of the Learning Agents Research Group. 
     - title: UT Southwestern Medical Center
       institution: Graduate Research Assistant
       year: 2025
@@ -62,7 +67,7 @@
         - Worked under Prof. Yang Xie and Prof. Wenqi Shi on developing a reinforcement learning based gym environment for multimodal language models.
     - title: UT Austin Computer Vision Group
       institution: Graduate Researcher
-      year: 2024 - Present
+      year: 2024 - 2026
       description:
         - Working under Prof. Kristen Grauman developing better methods for video understanding tasks, such as procedural understanding and video alignment.
     - title: Machine Intelligence through Decision Making and Interaction Lab
