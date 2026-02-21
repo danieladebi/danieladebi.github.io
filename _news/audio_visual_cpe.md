@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<b>[Audio-Visual Camera Pose Estimation](https://arxiv.org/abs/2411.11188)</b> got accepted by CVPR (Findings Track)!
+<b>[Audio-Visual Camera Pose Estimation](https://arxiv.org/pdf/2512.12165)</b> got accepted by CVPR (Findings Track)!
