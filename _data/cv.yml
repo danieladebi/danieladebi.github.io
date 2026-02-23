@@ -43,9 +43,9 @@
 - title: Publications
   type: time_table
   contents:
-  - title: "Audio-Visual Camera Pose Estimation with Passive Scene Sounds and In-the-Wild Video (CVPR 2026)"
+  - title: "Audio-Visual Camera Pose Estimation with Passive Scene Sounds and In-the-Wild Video (ArXiv Preprint 2025)"
     institution: "<u>Daniel Adebi</u>, Sagnik Majumder, Kristen Grauman"
-    year: Feb 2026
+    year: Dec 2025
   - title: "AMAGO-2: Breaking the Multi-Task Barrier in Meta-Reinforcement Learning with Transformers (NeurIPS 2024)"
     institution: "Jake Grigsby, Justin Sasek*, Samyak Parajuli*, <u>Daniel Adebi</u>*, Amy Zhang, Yuke Zhu"
     year: Nov 2024 
