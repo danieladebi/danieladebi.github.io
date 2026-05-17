@@ -15,7 +15,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a third-year Ph.D. student in Computer Science at the <b>[University of Texas at Austin](https://www.cs.utexas.edu/)</b>, currently working under <b>[Prof. Mitchell Pryor](https://robotics.me.utexas.edu/people/9-faculty/2-mitch-pryor)</b> and <b>[Prof. Peter Stone](https://www.cs.utexas.edu/~pstone/index.shtml)</b>. My research interests broadly lie at the intersection of <b>robotics</b>, <b>computer vision</b>, <b>representation learning</b>, and <b>reinforcement learning</b> for the purposes of improving long-term task planning and autonomy. Currently, my research focuses on mobile robotic manipulation tasks.
+I am a third-year Ph.D. student in Computer Science at the <b>[University of Texas at Austin](https://www.cs.utexas.edu/)</b>, currently working under <b>[Prof. Mitchell Pryor](https://robotics.me.utexas.edu/people/9-faculty/2-mitch-pryor)</b> and <b>[Prof. Peter Stone](https://www.cs.utexas.edu/~pstone/index.shtml)</b>. My research lies at the intersection of <b>robotics</b> and <b>computer vision</b>, with a focus on robot learning for <b><i>physically grounded</i></b> perception and decision-making. I develop learning-based methods that enable robots to understand and reason about object geometry, dynamics, and affordances for long-horizon interaction.
 
 
 Previously, I received my bachelor's and master's degrees from the <b>[Massachusetts Institute of Technology](https://web.mit.edu/)</b> studying Computer Science with a focus on Artificial Intelligence.
